@@ -1,4 +1,3 @@
-
 exports.get = (req, res) => {
         const catalogue = [
 		{ref:"X001", titre : "Linux", prix : 10},
